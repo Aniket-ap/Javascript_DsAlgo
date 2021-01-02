@@ -1,1 +1,1 @@
-# Javascript_DsAlgo
+# Javascript_DS_ALGO_Practice
